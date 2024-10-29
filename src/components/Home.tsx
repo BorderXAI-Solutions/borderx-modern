@@ -152,7 +152,7 @@ export function Home() {
           <div className="absolute inset-0 bg-gradient-to-b from-transparent to-indigo-900/90" />
           <img 
             src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
-            alt="Ad Campaigns"
+            alt="Ads Campaign"
             className="w-full h-64 object-cover transform group-hover:scale-105 transition-transform duration-300"
           />
           <div className="absolute bottom-0 p-6 w-full">
